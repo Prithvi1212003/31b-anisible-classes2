@@ -1,0 +1,8 @@
+-
+ name: usecase on command module
+ hosts: client1
+ tasks:
+  - name: below code to create a directory
+    command:
+     cmd: mkdir/opt/USA
+      
