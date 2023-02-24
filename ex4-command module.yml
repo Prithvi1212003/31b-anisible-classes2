@@ -6,7 +6,7 @@
     command:
      cmd: mkdir/opt/USA
   
-  - name: below to remove git application
-    command:
-     cmd: yum remove -y git
+  #- name: below to remove git application
+   # command:
+    # cmd: yum remove -y git
       
