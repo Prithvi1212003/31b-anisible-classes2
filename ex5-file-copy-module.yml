@@ -1,0 +1,13 @@
+-
+ name: pb on use of copy and file modules
+ hosts: all
+ tasks:
+  - name: code to create file
+    file:
+    path:  /opt/notes.txt
+    state: touch
+
+  - name: code for write a message
+     copy: 
+      content: 'hello world'
+      desk: /opt/notes.txt
