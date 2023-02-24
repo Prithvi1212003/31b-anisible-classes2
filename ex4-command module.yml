@@ -5,4 +5,9 @@
   - name: below code to create a directory
     command:
      cmd: mkdir /opt/USA
+
+  - name: below to remove git application
+    command:
+     cmd: yum remove -y git
+     
   
