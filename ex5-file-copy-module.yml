@@ -4,8 +4,8 @@
  tasks:
   - name: code to create file
     file:
-    path:  /opt/notes.txt
-    state: touch
+     path:  /opt/notes.txt
+     state: touch
 
   - name: code for write a message
     copy: 
