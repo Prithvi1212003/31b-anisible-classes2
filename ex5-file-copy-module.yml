@@ -7,8 +7,5 @@
      path:  /opt/notes.txt
      state: touch
 
-  - name: code for write a message
-    copy: 
-      content: 'hello world'
-      desk: /opt/notes.txt
+  
       
