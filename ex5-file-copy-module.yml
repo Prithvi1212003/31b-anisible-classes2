@@ -11,3 +11,4 @@
     copy: 
       content: 'hello world'
       desk: /opt/notes.txt
+      
