@@ -9,5 +9,3 @@
   - name: below to remove git application
     command:
      cmd: yum remove -y git
-     
-  
