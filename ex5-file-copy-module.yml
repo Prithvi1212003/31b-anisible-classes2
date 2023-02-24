@@ -8,6 +8,6 @@
     state: touch
 
   - name: code for write a message
-     copy: 
+    copy: 
       content: 'hello world'
       desk: /opt/notes.txt
