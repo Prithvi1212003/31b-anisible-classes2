@@ -4,5 +4,5 @@
  tasks:
   - name: below code to create a directory
     command:
-     cmd: mkdir/opt/USA
+     cmd: mkdir /opt/USA
   
