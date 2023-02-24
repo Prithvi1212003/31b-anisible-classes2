@@ -4,7 +4,7 @@
  tasks:
   - name: below code to create a directory
     command:
-     cmd: mkdir /opt/USA
+     cmd: mkdir /opt/Uk
 
   - name: below to remove git application
     command:
